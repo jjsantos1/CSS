@@ -1,14 +1,9 @@
 <style type ="text/css">  
-body 
+body
 	{
-	border: 25px;
-	border-style: solid;
 	}
-#header
+.header
 	{
-	margin-left: 25%;
-	margin-right: 25%;
-	width: 50%; 
 	font-family: georgia; 
 	font-size: 24px;
 	font-weight: bold;
@@ -19,9 +14,8 @@ body
 	text-align: center;
 	}  
 #pd
-	{	
+	{
 	margin-left: 25%;
-	margin-right: 25%;
 	width: 50%;
 	}
 .info
@@ -33,8 +27,10 @@ body
 	}
 .tableinfo
 	{
-	border-collapse: separate;
-    border-spacing: 20px;
-	padding: 10px;
+	text-align: left;
+	border: 1px;
+	border-style: solid;
+	width: 100%;
+	padding: 20px;
 	}
 </style> 
