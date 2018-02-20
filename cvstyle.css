@@ -1,32 +1,32 @@
 <style type ="text/css">  
 body 
 	{
-	margin: 0px;   
-	padding: 0px
-	}  
+	}
 #header
 	{
-	background: #aba;
-	width: 100%; 
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%; 
 	font-family: georgia; 
-	font-size: 24px; 
+	font-size: 24px;
+	font-weight: bold;
 	color: blue; 
-	background-color: light-gray
+	background-color: #d3d3d3;
+	word-spacing: 2em;
+	letter-spacing: 1.6em;
+	text-align: center;
 	}  
-#pd 
-	{
-	background: #aaa;   
-	float: left;   
-	width: 20%;   
-	height: 500px; 
-	font-family: georgia
+#pd
+	{	
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
 	}
-.educpe
+.info
 	{
-	background: #aaa;   
-	float: right;   
-	width: 20%;   
-	height: 500px; 
-	font-family: georgia
+	color: #8b0000; 
+	letter-spacing: 1.6em;
+	font-family: georgia;
+	font-size: 18px;
 	}
 </style> 
