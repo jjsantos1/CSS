@@ -1,6 +1,8 @@
 <style type ="text/css">  
 body 
 	{
+	border: 25px;
+	border-style: solid;
 	}
 #header
 	{
@@ -28,5 +30,11 @@ body
 	letter-spacing: 1.6em;
 	font-family: georgia;
 	font-size: 18px;
+	}
+.tableinfo
+	{
+	border-collapse: separate;
+    border-spacing: 20px;
+	padding: 10px;
 	}
 </style> 
