@@ -1,0 +1,32 @@
+<style type ="text/css">  
+body 
+	{
+	margin: 0px;   
+	padding: 0px
+	}  
+#header
+	{
+	background: #aba;
+	width: 100%; 
+	font-family: georgia; 
+	font-size: 24px; 
+	color: blue; 
+	background-color: light-gray
+	}  
+#pd 
+	{
+	background: #aaa;   
+	float: left;   
+	width: 20%;   
+	height: 500px; 
+	font-family: georgia
+	}
+.educpe
+	{
+	background: #aaa;   
+	float: right;   
+	width: 20%;   
+	height: 500px; 
+	font-family: georgia
+	}
+</style> 
