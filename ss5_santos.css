@@ -1,0 +1,15 @@
+h1{
+		text-align: center;
+	}
+textarea{
+		width: 100%; height: 115px; box-sizing: border-box; border: 1px solid gray; background-color: #f8f8f8; resize: none;
+	}
+table{
+		margin-left: auto; margin-right: auto;
+	}
+p{
+		text-align: right;
+	}
+#td1{
+		background-color: #7C7C7C;
+	}
